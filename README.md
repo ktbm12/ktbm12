@@ -16,9 +16,9 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justinefokou&show_icons=true&theme=radical)](https://github.com/justinefokou)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=justinefokou&theme=radical&hide_border=true)](https://github.com/justinefokou)  
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinefokou&theme=radical)](https://github.com/justinefokou)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tallabolivent&show_icons=true&theme=radical)](https://github.com/tallabolivent)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=tallabolivent&theme=radical&hide_border=true)](https://github.com/justinefokou)  
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktbm12&theme=radical)](https://github.com/tallabolivent)
 
 ---
 
@@ -35,7 +35,7 @@
 
 I'm always open to new opportunities, collaborations, or simply chatting tech!
 
-- 📧 Email: [boliventtalla12@gmail@gmail.com](mailto:justinefokousteve@gmail.com)  
+- 📧 Email: [boliventtalla12@gmail@gmail.com](mailto:boliventtalla12@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/boliventtalla](https://linkedin.com/in/boliventtalla)  
 - 🐦 Twitter: [twitter.com/justinefokou](https://twitter.com/boliventtalla)
 
