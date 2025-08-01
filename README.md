@@ -16,9 +16,9 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tallabolivent&show_icons=true&theme=radical)](https://github.com/tallabolivent)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tallabolivent&theme=radical&hide_border=true)](https://github.com/justinefokou)  
-[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktbm12&theme=radical)](https://github.com/tallabolivent)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tallabolivent&show_icons=true&theme=radical)](https://github.com/ktbm12)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=tallabolivent&theme=radical&hide_border=true)](https://github.com/ktbm12)  
+[![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktbm12&theme=radical)](https://github.com/ktbm12)
 
 ---
 
