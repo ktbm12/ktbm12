@@ -1,4 +1,4 @@
-# Talla Bolivent Marcial 👋
+# Talla Bolivent 👋
 🚀 Passionate about crafting reliable, scalable, and elegant web applications from **frontend to backend**, including **hosting** and **DevOps**. I enjoy turning complex problems into simple, beautiful solutions — and continuously learning in the process.
 
 ---
@@ -16,8 +16,8 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tallabolivent&show_icons=true&theme=radical)](https://github.com/ktbm12)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=tallabolivent&theme=radical&hide_border=true)](https://github.com/ktbm12)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ktbm12&show_icons=true&theme=radical)](https://github.com/ktbm12)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ktbm12theme=radical&hide_border=true)](https://github.com/ktbm12)  
 [![Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktbm12&theme=radical)](https://github.com/ktbm12)
 
 ---
@@ -35,13 +35,12 @@
 
 I'm always open to new opportunities, collaborations, or simply chatting tech!
 
-- 📧 Email: [boliventtalla12@gmail@gmail.com](mailto:boliventtalla12@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/boliventtalla](https://linkedin.com/in/boliventtalla)  
-- 🐦 Twitter: [twitter.com/justinefokou](https://twitter.com/boliventtalla)
+- 📧 Email: [justinefokousteve@gmail.com](mailto:boliventtalla12@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/justinefokou](https://linkedin.com/in/tallabolivent)  
+- 🐦 Twitter: [twitter.com/justinefokou](https://twitter.com/tallabolivent)
 
 ---
 
 _“Code is poetry. Clean code is a masterpiece.”_
-
 
 
