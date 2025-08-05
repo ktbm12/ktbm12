@@ -7,7 +7,7 @@
 
 | Domain            | Technologies & Tools                                                                 |
 |------------------|----------------------------------------------------------------------------------------|
-| **Frontend**      | HTML, CSS, JavaScript, Tailwind CSS, React.js, Vue.js                                |
+| **Frontend**      | HTML, CSS, JavaScript, Tailwind CSS, boostrapp, Vue.js                                |
 | **Backend**       | Python, Django, Django REST Framework, Node.js, Express.js                           |
 | **DevOps / Tools**| Git, GitHub, Docker, Linux, Bash, Postman, Thunder Client                            |
 | **Hosting / CI**  | Vercel, Netlify, Firebase, Hostinger, Railway, Render, AWS                           |
@@ -35,9 +35,9 @@
 
 I'm always open to new opportunities, collaborations, or simply chatting tech!
 
-- 📧 Email: [justinefokousteve@gmail.com](mailto:boliventtalla12@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/justinefokou](https://linkedin.com/in/tallabolivent)  
-- 🐦 Twitter: [twitter.com/justinefokou](https://twitter.com/tallabolivent)
+- 📧 Email: [boliventtalla12@gmail.com](mailto:boliventtalla12@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/boliventtalla](https://linkedin.com/in/tallabolivent)  
+- 🐦 Twitter: [twitter.com/boliventtalla](https://twitter.com/tallabolivent)
 
 ---
 
