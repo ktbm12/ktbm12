@@ -24,7 +24,7 @@
 
 ## 💡 About Me
 
-- 🎓 Self-driven learner & passionate developer
+- 🎓 Self-driven learner & passionate developer 
 - 🧠 Currently working on **e-learning**, **project management**, and **real-time web apps**
 - 🌍 Based in Cameroon | Working remotely worldwide
 - 💬 Always open to sharing knowledge & collaborating on impactful projects
